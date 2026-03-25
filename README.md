@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Kumar Kushwaha
 
-<!--
-**Deepak4511/Deepak4511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React.js | Next.js | Node.js  
+📍 Lucknow, India  
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- Build scalable web applications
+- Focus on performance & SEO
+- Work with modern UI/UX systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+React | Next.js | Node.js | MongoDB | Tailwind | Bootstrap
+
+## 🔥 Featured Projects
+- 🛒 E-Commerce Platform → [Live Demo](#) | [Code](#)
+- 📊 Task Management System → [Code](#)
+- 🎨 3D Portfolio → [Live](#)
+
+## 📫 Connect With Me
+- LinkedIn: [https://github.com/Deepak4511](https://github.com/Deepak4511)
+- Email: deepaksingh451181@gmail.com
