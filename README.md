@@ -29,5 +29,4 @@ apps in healthcare, education, and e-commerce. Expanding into full-stack with No
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak4511&show_icons=true&theme=default)](https://github.com/Deepak4511)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak4511&layout=compact&hide=php,hack&exclude_repo=REPO_NAME_1,REPO_NAME_2)
